@@ -1,0 +1,12 @@
+{
+    "owner": "chenjianjun@ishumei.com",
+    "if_drop_table": "false",
+    "if_drop_partition": "true",
+    "if_delete_hdfs": "true",
+    "date_partition_name": "dt",
+    "date_partition_format": "%Y%m%d",
+    "hive_database": "ads",
+    "hive_table": "ads_tianwang_0level_token_tokenscore_ds",
+    "hive_table_location": "/user/data/hive/ads/ads_tianwang_0level_token_tokenscore_ds",
+    "save_window": 15
+}
